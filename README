@@ -1,0 +1,8 @@
+A test yii framework webservice to measure the tweet density of a user. 
+
+The webservice takes the following parameter
+type: string can be {"html", "xml", "json"}
+handle: string (eg: 'interviewstreet', 'twitter')
+count: integer X (number of tweets to analyze)
+
+Chk Out: http://tweetstats.com/graphs/interviewstreet and http://xefer.com/twitter/interviewstreet
